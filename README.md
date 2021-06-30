@@ -1,5 +1,5 @@
 
-# ReSwitcher-Plugin
+# ReSwitcher Eclipse Plug-in
 
 * Remove the fall-through semantics from switch statements
 * Convert switch statements to switch expressions
